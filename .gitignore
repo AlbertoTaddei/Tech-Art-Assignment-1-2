@@ -47,7 +47,7 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Cartella Brushes
-Content/Worldbuilding/Brushes/*
+# Content/Worldbuilding/Brushes/*
 
 # Binary Files
 Binaries/*
